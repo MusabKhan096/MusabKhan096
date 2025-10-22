@@ -2,40 +2,56 @@
 <h1 align="center">🌙 Hey there, I'm <span style="color:#58a6ff;">Musaib Khan</span></h1>
 
 <p align="center">
-  🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Aspiring Ethical Hacker</b> &nbsp;|&nbsp; ⚙️ <b>IT & Programming Enthusiast</b>
+  🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Ethical Hacking Learner</b> &nbsp;|&nbsp; ⚙️ <b>InfoSec & IT Enthusiast</b>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  With a strong background in **Computer Science, IT, and Programming**, I’m passionate about **understanding vulnerabilities, system behavior, and the principles of digital defense**.  
+I’m **Musaib Khan**, a passionate **Cyber Security student** from Pakistan 🇵🇰, deeply interested in understanding **system vulnerabilities, security architecture, and ethical hacking**.  
+My mission is to explore and secure digital environments through **knowledge, logic, and ethical intent**.
 
-I’m continuously developing my technical expertise in both **offensive and defensive cybersecurity**, while strengthening my programming foundation to support secure system design.
+With a growing skill set in **vulnerability testing**, **network defense**, and **Linux scripting**, I aim to contribute to creating safer and more resilient digital systems.
 
 ---
 
-### 🚀 Currently Learning
+### 🚀 Currently Exploring
 
 - 🔐 Ethical Hacking & Network Security  
 - 🧩 Data Structures & Algorithms  
-- 💻 System Programming in **C++**, **Java**, and **Python**  
-- 🐧 Linux Administrations (Kali, Ubuntu) & Digital Forensics  
+- 💻 Programming in **C++**, **Python**, and **Java**  
+- 🐧 **Kali Linux Scripting** & **Digital Forensics**  
+- 🛡️ **Information Security**, **Vulnerability Testing**, & **Phishing Simulation (Ethical Use)**  
 
 ---
 
-### 💼 Experience & Roles
+### 💼 Roles & Experience
 
-- 🧑‍💼 **Team Director** — led and organized multiple university-level events including business expos and sports Olympiads  
-- 🧑‍💻 **IT Lab Assistant** — provided technical support, managed systems, and assisted with network setup and troubleshooting  
-- 💡 **Developer** — working on projects that combine programming logic with cybersecurity applications  
+- 🧑‍💻 **Cybersecurity & IT Support Assistant** — maintained secure systems, configured networks, and implemented basic security protocols  
+- 🧑‍💼 **Team Director** — led university expos, tech workshops, and cybersecurity awareness events  
+- 🧠 **InfoSec Trainee** — practiced vulnerability scanning, phishing simulation, and penetration testing fundamentals using ethical hacking tools  
+- 💡 **Developer** — created projects combining **secure coding practices** with programming logic for defensive solutions  
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode,visualstudio,html,css,kali,windows&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,kali,git,vscode,visualstudio,html,css,windows,bash&perline=6" />
+</p>
+
+---
+
+### 🧩 Skills Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-0A66C2?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Testing-58a6ff?style=for-the-badge&logo=qualys&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phishing%20Simulation%20(Ethical)-161b22?style=for-the-badge&logo=maildotru&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Scripting-2b9348?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Information%20Security-5e60ce?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Defense-0f9d58?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
@@ -43,20 +59,20 @@ I’m continuously developing my technical expertise in both **offensive and def
 ### 🧩 Featured Project
 
 #### 🔹 [AICS DevTech](#)
-A fictional **software development company** created for an entrepreneurship project —  
-focused on **innovation, teamwork, and professional software development** with cybersecurity-oriented design and execution.
+A conceptual **software development company** designed for an entrepreneurship project —  
+focused on **innovation, teamwork**, and **secure software development practices** with a cybersecurity-first mindset.
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Qazi-1966&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Qazi-1966&theme=github-dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musabkhan096&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musabkhan096&theme=github-dark&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Qazi-1966&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabkhan096&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 ---
@@ -66,9 +82,9 @@ focused on **innovation, teamwork, and professional software development** with 
 <p align="center">
   <a href="mailto:m.ksoomrah@gmail.com"><img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/musabkhan096"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/musaib-khan-1382842a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/musaib-khan-a4037536b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="center"><i>“In cybersecurity and life, curiosity isn’t just a trait — it’s the ultimate defense.” 🔒</i></h3>
+<h3 align="center"><i>“In cybersecurity and in life, curiosity isn’t just a trait — it’s the ultimate defense.” 🔒</i></h3>
