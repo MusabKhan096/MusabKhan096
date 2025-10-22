@@ -1,44 +1,47 @@
 <!-- Profile Header -->
-<h1 align="center">🌙 Hey there, I'm <span style="color:#58a6ff;">Musaib Khan</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=🌙+Hey+there%2C+I'm+Musaib+Khan;🔒+Cyber+Security+Student+%7C+Ethical+Hacker;💻+Cyber+Analyst+in+Training+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Ethical Hacking Learner</b> &nbsp;|&nbsp; ⚙️ <b>InfoSec & IT Enthusiast</b>
+  🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Ethical Hacking Learner</b> &nbsp;|&nbsp; ⚙️ <b>InfoSec & Cyber Analyst Enthusiast</b>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I’m **Musaib Khan**, a passionate **Cyber Security student** from Pakistan 🇵🇰, deeply interested in understanding **system vulnerabilities, security architecture, and ethical hacking**.  
-My mission is to explore and secure digital environments through **knowledge, logic, and ethical intent**.
+I’m **Musaib Khan**, a passionate **Cyber Security student** from Pakistan 🇵🇰, driven by curiosity about how **systems operate, fail, and can be secured**.  
+My interests revolve around **vulnerability assessment**, **ethical phishing simulation**, and **Linux-based automation**.  
 
-With a growing skill set in **vulnerability testing**, **network defense**, and **Linux scripting**, I aim to contribute to creating safer and more resilient digital systems.
+As an aspiring **Cyber Analyst**, I enjoy connecting **programming principles** with **information security practices** — using logic, scripting, and OOP concepts to design secure and efficient solutions.
 
 ---
 
 ### 🚀 Currently Exploring
 
 - 🔐 Ethical Hacking & Network Security  
-- 🧩 Data Structures & Algorithms  
 - 💻 Programming in **C++**, **Python**, and **Java**  
+- 🧩 **Object-Oriented Programming (OOP)** Principles  
 - 🐧 **Kali Linux Scripting** & **Digital Forensics**  
 - 🛡️ **Information Security**, **Vulnerability Testing**, & **Phishing Simulation (Ethical Use)**  
+- 📊 **SOC Analysis** & **Incident Response Fundamentals**
 
 ---
 
 ### 💼 Roles & Experience
 
-- 🧑‍💻 **Cybersecurity & IT Support Assistant** — maintained secure systems, configured networks, and implemented basic security protocols  
-- 🧑‍💼 **Team Director** — led university expos, tech workshops, and cybersecurity awareness events  
-- 🧠 **InfoSec Trainee** — practiced vulnerability scanning, phishing simulation, and penetration testing fundamentals using ethical hacking tools  
-- 💡 **Developer** — created projects combining **secure coding practices** with programming logic for defensive solutions  
+- 🧑‍💻 **Cybersecurity & IT Support Assistant** — maintained secure systems, configured networks, and supported endpoint defense  
+- 🧑‍💼 **Team Director** — led university expos, workshops, and cybersecurity awareness sessions  
+- 🧠 **InfoSec Trainee** — practiced vulnerability scanning, phishing simulations, and Linux-based security scripting  
+- 💡 **Developer** — built projects integrating **OOP principles**, **secure coding**, and **cyber defense logic**
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,kali,git,vscode,visualstudio,html,css,windows,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,kali,git,vscode,visualstudio,html,css,windows,bash,linux&perline=6" />
 </p>
 
 ---
@@ -52,6 +55,8 @@ With a growing skill set in **vulnerability testing**, **network defense**, and 
   <img src="https://img.shields.io/badge/Linux%20Scripting-2b9348?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Information%20Security-5e60ce?style=for-the-badge&logo=protonmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Network%20Defense-0f9d58?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC%20Analysis-004aad?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP%20(Object%20Oriented%20Programming)-FF9800?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
@@ -60,7 +65,7 @@ With a growing skill set in **vulnerability testing**, **network defense**, and 
 
 #### 🔹 [AICS DevTech](#)
 A conceptual **software development company** designed for an entrepreneurship project —  
-focused on **innovation, teamwork**, and **secure software development practices** with a cybersecurity-first mindset.
+focused on **innovation, teamwork**, and **secure software development** with a cybersecurity-first mindset.
 
 ---
 
@@ -87,4 +92,6 @@ focused on **innovation, teamwork**, and **secure software development practices
 
 ---
 
-<h3 align="center"><i>“In cybersecurity and in life, curiosity isn’t just a trait — it’s the ultimate defense.” 🔒</i></h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&lines=“Curiosity+is+the+first+firewall.”+🔒" alt="Quote Animation" />
+</h3>
