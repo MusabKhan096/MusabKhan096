@@ -1,5 +1,9 @@
-<!-- Profile Header -->
-<h1 align="center">💼 Hi, I'm <span style="color:#58a6ff;">Musaib Khan</span> — Cyber Security Student & Analyst</h1>
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Musaib+Khan+👋;Cyber+Security+Student;Cyber+Analyst;Developer+%7C+Programmer+%7C+Tech+Enthusiast" alt="Typing Animation">
+</div>
+
+---
 
 <p align="center">
   🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; ⚔️ <b>Cyber Analyst</b> &nbsp;|&nbsp; 💻 <b>IT & Programming Enthusiast</b>
@@ -16,7 +20,7 @@
 ### 🧠 About Me
 
 I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  
-With a solid background in **Computer Science, Information Security, and Programming**, I’m passionate about **identifying vulnerabilities, analyzing digital threats, and securing systems**.  
+With a solid foundation in **Computer Science, Information Security, and Programming**, I’m passionate about **identifying vulnerabilities, analyzing digital threats, and securing systems**.  
 
 I focus on **defensive and analytical cybersecurity**, and I’m developing advanced skills in **Kali Linux scripting, vulnerability testing, and phishing awareness techniques (ethical side)**.
 
