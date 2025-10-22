@@ -1,7 +1,3 @@
-<!-- 🔥 Animated Intro Section -->
-<div align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="500" height="280" alt="Intro Animation">
-</div>
 
 <!-- Animated Header -->
 <div align="center">
