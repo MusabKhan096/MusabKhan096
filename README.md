@@ -1,47 +1,52 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=🌙+Hey+there%2C+I'm+Musaib+Khan;🔒+Cyber+Security+Student+%7C+Ethical+Hacker;💻+Cyber+Analyst+in+Training+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=🌙+Hey+there%2C+I'm+Musaib+Khan;🔒+Cyber+Security+Student+%7C+Ethical+Hacker;💻+Cyber+Analyst+in+Training+%7C+Web+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Ethical Hacking Learner</b> &nbsp;|&nbsp; ⚙️ <b>InfoSec & Cyber Analyst Enthusiast</b>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Cybersecurity Animation" />
+</p>
+
+<p align="center">
+  🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Ethical Hacking Learner</b> &nbsp;|&nbsp; ⚙️ <b>InfoSec & Web Development Enthusiast</b>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I’m **Musaib Khan**, a passionate **Cyber Security student** from Pakistan 🇵🇰, driven by curiosity about how **systems operate, fail, and can be secured**.  
-My interests revolve around **vulnerability assessment**, **ethical phishing simulation**, and **Linux-based automation**.  
+I’m **Musaib Khan**, a passionate **Cyber Security student** from Pakistan 🇵🇰, focused on building a strong foundation in **ethical hacking**, **vulnerability analysis**, and **secure software development**.  
+I enjoy exploring how systems can be **broken and protected**, combining **programming**, **OOP principles**, and **secure web design** to develop smarter solutions.  
 
-As an aspiring **Cyber Analyst**, I enjoy connecting **programming principles** with **information security practices** — using logic, scripting, and OOP concepts to design secure and efficient solutions.
+Curiosity drives me to continuously learn new tools, automate tasks with **Kali Linux scripting**, and stay updated with **emerging cybersecurity trends**.
 
 ---
 
 ### 🚀 Currently Exploring
 
 - 🔐 Ethical Hacking & Network Security  
+- 🧩 **Object-Oriented Programming (OOP)** Concepts  
 - 💻 Programming in **C++**, **Python**, and **Java**  
-- 🧩 **Object-Oriented Programming (OOP)** Principles  
 - 🐧 **Kali Linux Scripting** & **Digital Forensics**  
-- 🛡️ **Information Security**, **Vulnerability Testing**, & **Phishing Simulation (Ethical Use)**  
-- 📊 **SOC Analysis** & **Incident Response Fundamentals**
+- 🛡️ **Vulnerability Testing** & **Phishing Simulation (Ethical Use)**  
+- 🌐 **Web Development** using **HTML, CSS, and JavaScript**  
+- ⚙️ **Information Security** & **SOC Fundamentals**
 
 ---
 
 ### 💼 Roles & Experience
 
-- 🧑‍💻 **Cybersecurity & IT Support Assistant** — maintained secure systems, configured networks, and supported endpoint defense  
-- 🧑‍💼 **Team Director** — led university expos, workshops, and cybersecurity awareness sessions  
-- 🧠 **InfoSec Trainee** — practiced vulnerability scanning, phishing simulations, and Linux-based security scripting  
-- 💡 **Developer** — built projects integrating **OOP principles**, **secure coding**, and **cyber defense logic**
+- 🧑‍💻 **Cybersecurity & IT Support Assistant** — configured secure systems, managed networks, and handled troubleshooting tasks  
+- 🧑‍💼 **Team Director** — led university expos, workshops, and cybersecurity awareness events  
+- 🧠 **InfoSec Trainee** — practiced vulnerability assessments, phishing simulations, and scripting automation on Linux  
+- 💡 **Developer & Web Designer** — created interactive web apps and GUI-based tools with secure and modular design  
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,kali,git,vscode,visualstudio,html,css,windows,bash,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,javascript,ubuntu,kali,git,vscode,visualstudio,windows,bash,linux&perline=6" />
 </p>
 
 ---
@@ -57,15 +62,33 @@ As an aspiring **Cyber Analyst**, I enjoy connecting **programming principles** 
   <img src="https://img.shields.io/badge/Network%20Defense-0f9d58?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/SOC%20Analysis-004aad?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP%20(Object%20Oriented%20Programming)-FF9800?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Development%20(HTML%2C%20CSS%2C%20JS)-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
-### 🧩 Featured Project
+### 🧩 Featured Projects
 
 #### 🔹 [AICS DevTech](#)
 A conceptual **software development company** designed for an entrepreneurship project —  
-focused on **innovation, teamwork**, and **secure software development** with a cybersecurity-first mindset.
+focused on **innovation, teamwork**, and **secure software engineering** with a cybersecurity-first mindset.
+
+#### 🔹 [Personal Budget Tracker (Java GUI + OOP)](#)
+A **desktop-based Java application** with **Swing GUI** implementing **OOP design patterns**.  
+Focused on **data security**, **input validation**, and **modular logic**.  
+**Key Features:**  
+- 💰 Add, edit, and delete budget entries  
+- 📊 Auto-calculate total and remaining balance  
+- 🔒 Data integrity and error handling  
+- 🧠 Showcases encapsulation, inheritance, and abstraction  
+
+#### 🔹 [Restaurant Website (HTML, CSS, JavaScript)](#)
+A fully responsive **restaurant website** built with **HTML, CSS, and JavaScript**, combining modern design and security best practices.  
+**Highlights:**  
+- 🍽️ Responsive layout with menu animations  
+- 🌐 Interactive navigation and contact form  
+- ⚙️ Secure input handling (prevents XSS & injection)  
+- 💡 Clean frontend logic with cybersecurity awareness  
 
 ---
 
