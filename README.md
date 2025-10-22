@@ -1,4 +1,9 @@
+<!-- 🌟 Animated Introduction -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Musaib+Khan+👋;Welcome+to+My+Cyber+World!;Cyber+Security+Student+%7C+Analyst+%7C+Developer" alt="Typing Animation">
+</div>
 
+---
 
 <p align="center">
   🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; ⚔️ <b>Cyber Analyst</b> &nbsp;|&nbsp; 💻 <b>IT & Programming Enthusiast</b>
