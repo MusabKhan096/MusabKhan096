@@ -1,3 +1,8 @@
+<!-- 🔥 Animated Intro Section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="500" height="280" alt="Intro Animation">
+</div>
+
 <!-- Animated Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Musaib+Khan+👋;Cyber+Security+Student;Cyber+Analyst;Developer+%7C+Programmer+%7C+Tech+Enthusiast" alt="Typing Animation">
