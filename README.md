@@ -1,6 +1,6 @@
 <!-- Typing animation (recommended, github-friendly) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+I+am+Musaib+Khan+%F0%9F%91%8B;Cyber+Security+Student;Cyber+Analyst;Developer+%7C+Programmer+%7C+Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+I+am+Musaib+Khan+%F0%9F%91%8B;Cyber+Security+Student;Cyber+Student;Developer+%7C+Programmer+%7C+Tech+Enthusiast" alt="Typing Animation" />
 </div>
 
 
