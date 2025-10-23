@@ -1,6 +1,6 @@
-<!-- 🌟 Animated Introduction -->
+<!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Musaib+Khan+👋;Welcome+to+My+Cyber+World!;Cyber+Security+Student+%7C+Analyst+%7C+Developer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Musaib+Khan+👋;Cyber+Security+Student;Cyber+Analyst;Developer+%7C+Programmer+%7C+Tech+Enthusiast" alt="Typing Animation">
 </div>
 
 ---
