@@ -1,10 +1,6 @@
-<!-- ✨ Professional Typing Animation Intro -->
+<!-- Typing animation (recommended, github-friendly) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0AFFD1&center=true&vCenter=true&width=750&lines=Hey+I+am+Musaib+Khan+👋;Cyber+Security+Student+🔐;Passionate+About+Digital+Defense+🧠;Exploring+the+World+of+Tech+💻" alt="Musaib Khan Typing Animation" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" alt="Cyber Security Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+I+am+Musaib+Khan+%F0%9F%91%8B;Cyber+Security+Student;Cyber+Analyst;Developer+%7C+Programmer+%7C+Tech+Enthusiast" alt="Typing Animation" />
 </div>
 
 
