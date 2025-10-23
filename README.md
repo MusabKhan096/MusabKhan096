@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-I'm currently pursuing my **Bachelor’s in Cyber Security** from Pakistan 🇵🇰.  
+I'm currently pursuing my **Bachelor’s in Cyber Security** from Hitec University Taxila Cantt Pakistan 🇵🇰.  
 With a solid foundation in **Computer Science, Information Security, and Programming**, I’m passionate about **identifying vulnerabilities, analyzing digital threats, and securing systems**.  
 
 I focus on **defensive and analytical cybersecurity**, and I’m developing advanced skills in **Kali Linux scripting, vulnerability testing, and phishing awareness techniques (ethical side)**.
